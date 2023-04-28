@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MMM</string>
+    <string name="product_list_title">Продукты</string>
+    <string name="setting_title">Настройки</string>
+    <string name="new_product">Новый продукт</string>
+    <string name="editing">Редактирование</string>
+    <string name="product_name_title">Введите имя продукта</string>
+    <string name="product_caloric_title">Введите калорийность продукта</string>
+    <string name="save_product">Сохранить продукт</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="loading">Загрузка продуктов</string>
+    <string name="pushEnabled">Уведомлять о приеме пищи</string>
+    <string name="pushPeriod">Периодичность уведомлений</string>
+    <string name="one_hour">Через 1 час</string>
+    <string name="two_hour">Через 2 часа</string>
+    <string name="three_hour">Через 3 часа</string>
+    <string name="four_hour">Через 4 часа</string>
+    <string name="five_hour">Через 5 часов</string>
+    <string name="six_hour">Через 6 часов</string>
+    <string name="notifyTitle">Время приема пищи</string>
+</resources>
